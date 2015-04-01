@@ -8,10 +8,10 @@ namespace CodeForFunApllication
     {
         static void Main(string[] args)
         {
+            //Display Sum of Multiples of 3 or 5 below 1000
             Sum.sumMultiple();
 
-            Spiral sp = new Spiral();
-
+            //Display Spiral Matrix
             int m = 5, n = 4, start = 1;
             int[,] mat = new int[m, n];
 

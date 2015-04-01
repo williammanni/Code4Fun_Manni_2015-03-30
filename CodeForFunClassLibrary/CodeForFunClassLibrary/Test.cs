@@ -13,6 +13,7 @@ namespace CodeForFunClassLibrary
 
         int sum;
 
+        //Initialize
         [SetUp]
         public void Init()
         {
@@ -26,6 +27,16 @@ namespace CodeForFunClassLibrary
             unwrappedSpiralMatr = Spiral.unwrapMatrix(spiralMatr, m, n);
         }
 
+        //Test Sum of Multiples of 3 or 5 below 1000
+        [Test]
+        public void CheckSum()
+        {
+            int sumA = 233168;  //sum
+
+            Assert.AreEqual(sumA, sum);
+        }
+
+        //Test Standard Enumeration
         [Test]
         public void CheckInitMatr()
         {
@@ -40,6 +51,7 @@ namespace CodeForFunClassLibrary
             CollectionAssert.AreEqual(matrix, initMatr);
         }
 
+        //Test Spiral Enumeration
         [Test]
         public void CheckSpiralMatr()
         {
@@ -54,6 +66,7 @@ namespace CodeForFunClassLibrary
             CollectionAssert.AreEqual(matrix, spiralMatr);
         }
 
+        //Test Unwrapped Standard Matrix
         [Test]
         public void CheckUnwrappedInitMatr()
         {
@@ -62,20 +75,13 @@ namespace CodeForFunClassLibrary
             CollectionAssert.AreEqual(matrix, unwrappedInitMatr);
         }
 
+        //Test Unwrapped Spiral Matrix
         [Test]
         public void CheckUnwrappedSpiralMatr()
         {
             int[] matrix = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
 
             CollectionAssert.AreEqual(matrix, unwrappedSpiralMatr);
-        }
-
-        [Test]
-        public void CheckSum()
-        {
-            int sumA = 233168;
-
-            Assert.AreEqual(sumA, sum);
         }
     }
 }

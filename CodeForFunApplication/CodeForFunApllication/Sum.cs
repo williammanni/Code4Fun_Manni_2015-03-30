@@ -7,7 +7,8 @@ namespace CodeForFunApllication
 {
     class Sum
     {
-        static public void sumMultiple()
+        //Sum and Display Multiples of 3 or 5 below 1000
+        static public int sumMultiple()
         {
             int sum = 0;
             for (int i = 0; i < 1000; i++)
@@ -18,6 +19,8 @@ namespace CodeForFunApllication
                 }
             }
             Console.WriteLine("Sum: " + sum);
+
+            return sum;
         }
     }
 }

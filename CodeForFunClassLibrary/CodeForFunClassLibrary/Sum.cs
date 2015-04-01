@@ -7,6 +7,7 @@ namespace CodeForFunClassLibrary
 {
     class Sum
     {
+        //Sum and Display Multiples of 3 or 5 below 1000
         static public int sumMultiple()
         {
             int sum = 0;

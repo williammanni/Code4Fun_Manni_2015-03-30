@@ -7,6 +7,7 @@ namespace CodeForFunApllication
 {
     class Spiral
     {
+        //Spiral Matrix creation
         static public int[,] spiralMatrix(int m, int n, int start)
         {
             int x = 0, y = 0, size = m, size2 = n;
@@ -42,6 +43,7 @@ namespace CodeForFunApllication
             return mat;
         }
 
+        //Standard Matrix creation
         public static int[,] initMatrix(int m, int n, int start)
         {
             int[,] mat = new int[m, n];
@@ -56,6 +58,7 @@ namespace CodeForFunApllication
             return mat;
         }
 
+        //Display Matrix
         public static void displayMatrix(int[,] mat, int m, int n)
         {
             for (int i = 0; i < m; i++)
@@ -68,6 +71,7 @@ namespace CodeForFunApllication
             }
         }
 
+        //Unwrap and Display Matrix
         public static int[] unwrapMatrix(int[,] mat, int m, int n)
         {
             int[] unwrMat = new int[m * n];
