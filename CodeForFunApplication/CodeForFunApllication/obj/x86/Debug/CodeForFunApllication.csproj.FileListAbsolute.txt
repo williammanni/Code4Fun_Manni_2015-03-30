@@ -12,3 +12,6 @@ C:\Users\wmanni\Documents\GitHub\New folder\CodeForFunApplication\CodeForFunApll
 C:\Users\wmanni\Documents\GitHub\New folder\CodeForFunApplication\CodeForFunApllication\obj\x86\Debug\CodeForFunApllication.pdb
 C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunApplication\CodeForFunApllication\obj\x86\Debug\CodeForFunApllication.exe
 C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunApplication\CodeForFunApllication\obj\x86\Debug\CodeForFunApllication.pdb
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunApplication\CodeForFunApllication\bin\Debug\CodeForFunApllication.exe
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunApplication\CodeForFunApllication\bin\Debug\CodeForFunApllication.pdb
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunApplication\CodeForFunApllication\obj\x86\Debug\CodeForFunApllication.csprojResolveAssemblyReference.cache

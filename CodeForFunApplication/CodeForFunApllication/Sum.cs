@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace CodeForFunApllication
+{
+    class Sum
+    {
+        static public void sumMultiple()
+        {
+            int sum = 0;
+            for (int i = 0; i < 1000; i++)
+            {
+                if ((i % 3 == 0) || (i % 5 == 0))
+                {
+                    sum = sum + i;
+                }
+            }
+            Console.WriteLine("Sum: " + sum);
+        }
+    }
+}

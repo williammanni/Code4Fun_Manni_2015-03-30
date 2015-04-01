@@ -5,3 +5,10 @@ C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\Cod
 C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.pdb
 C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\CodeForFunClassLibrary\obj\Debug\CodeForFunClassLibrary.dll
 C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\CodeForFunClassLibrary\obj\Debug\CodeForFunClassLibrary.pdb
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.dll
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.pdb
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\nunit.framework.dll
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\nunit.framework.xml
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\obj\Debug\CodeForFunClassLibrary.csprojResolveAssemblyReference.cache
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\obj\Debug\CodeForFunClassLibrary.dll
+C:\Users\wmanni\Documents\GitHub\Code4Fun_Manni_2015-03-30\CodeForFunClassLibrary\CodeForFunClassLibrary\obj\Debug\CodeForFunClassLibrary.pdb
