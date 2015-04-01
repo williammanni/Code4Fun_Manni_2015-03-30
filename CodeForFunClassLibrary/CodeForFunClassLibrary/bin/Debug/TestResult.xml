@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.dll" total="5" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-04-01" time="12:50:30">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.5477" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.4\bin" machine-name="WMANNI" user="wmanni" user-domain="EXPERTSYSTEM" />
+  <culture-info current-culture="it-IT" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\wmanni\Documents\Visual Studio 2010\Projects\CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.dll" executed="True" result="Success" success="True" time="0.163" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="SpiralMatrix" executed="True" result="Success" success="True" time="0.142" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Class" executed="True" result="Success" success="True" time="0.139" asserts="0">
+            <results>
+              <test-case name="SpiralMatrix.Class.CheckInitMatr" executed="True" result="Success" success="True" time="0.050" asserts="1" />
+              <test-case name="SpiralMatrix.Class.CheckSpiralMatr" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="SpiralMatrix.Class.CheckSum" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="SpiralMatrix.Class.CheckUnwrappedInitMatr" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="SpiralMatrix.Class.CheckUnwrappedSpiralMatr" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

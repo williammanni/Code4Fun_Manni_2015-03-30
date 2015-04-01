@@ -1,0 +1,6 @@
+﻿<NUnitProject>
+  <Settings activeconfig="Default" />
+  <Config name="Default" binpathtype="Auto">
+    <assembly path="CodeForFunClassLibrary\CodeForFunClassLibrary\bin\Debug\CodeForFunClassLibrary.dll" />
+  </Config>
+</NUnitProject>
